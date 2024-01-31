@@ -1,8 +1,7 @@
-# React + Vite
+This code configures a 3D web app using React, Three.js, and Vite. The App component sets up a canvas, rendering the Experience component with interactive controls and a basic 3D shape. Dependencies include `@react-three/drei` and `@react-three/fiber`. The project uses Vite for development and ESLint for linting. Enhancements could include code comments for clarity and a more descriptive GitHub repository description.
+# Live Link
+<https://serene-heliotrope-0aebbe.netlify.app/>
+![My Image](https://i.ibb.co/ZJ30LZd/3-D-Personal-Microsoft-Edge-2024-01-31-15-03-57.gif) <br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### For run
+`yarn dev`
